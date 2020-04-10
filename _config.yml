@@ -20,7 +20,7 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I am CAE Simulation Engineer"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -33,6 +33,8 @@ avatar: "/img/avatar-icon.png"
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
+# title-img: C:/company/github_stuff/pics_01/Ramsha
+# title-img: /path/to/image 
 
 # --- Background colour/image options --- #
 
@@ -60,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Shaam Khan
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
