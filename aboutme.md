@@ -4,12 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Shabeer Khan. I do not have much qualities, rather de-qualifiers:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I always like to drink beer but with cig...!
+- I'm a kind of angry man... impressed by Daniel Lewis (There Will Be Blood)
 
-What else do you need?
+Lets move forward, this section is much important.
 
 ### my history
 
