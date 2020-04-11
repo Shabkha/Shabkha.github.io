@@ -27,8 +27,8 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "http://deanattali.com"
   Author's home: 
-    - Beautiful Jekyll: "https://www.linguee.de"
-    - Learn markdown: "https://www.linkedin.com/in/shabeer-khan-9ab67a6/"
+    - lingueee: "https://www.linguee.de"
+    - LinkedIn Pro: "https://www.linkedin.com/in/shabeer-khan-9ab67a6/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
