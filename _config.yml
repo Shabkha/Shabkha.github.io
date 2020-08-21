@@ -20,8 +20,13 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "aboutme"
-  Projects: "projectsss"
+  About Me:
+  - Bio: "about-me/bio"
+  - Resume: "about-me/resume.html"
+  Projects: 
+  - Hobby Projects: "projects/hobby-projects"
+    # - Voluntary Projects: "voluntary-projects"
+    # - Portfolio: "portfolio"
   FEM Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
