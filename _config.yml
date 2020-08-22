@@ -24,7 +24,14 @@ navbar-links:
   - Bio: "about-me/bio"
   - Resume: "about-me/resume.html"
   Projects: 
-  - Hobby Projects: "projects/hobby-projects"
+  - Projects at ARRK: "projects/ARRK-projects"
+  - Projects at FCMS: "projects/FCMS-projects"
+  - Projects at SOCO: "projects/SOCO-projects"
+  - In TU Darmstadt: "projects/Darmstadt-projects"
+  - Tasks in UET Lahore: "projects/UET-projects"
+  - Project at Descon Engineering: "projects/DESCON-projects"
+  - Fauji Fertilizers: "projects/FFC-projects"
+
     # - Voluntary Projects: "voluntary-projects"
     # - Portfolio: "portfolio"
   FEM Resources:
