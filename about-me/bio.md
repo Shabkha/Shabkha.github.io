@@ -21,7 +21,7 @@ Prior to this, I have worked at <a href="https://payback.net" target="_blank">P
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I completed <strong>BSc. Information and Communication Systems Engingeering</strong> from <a href="http://seecs.nust.edu.pk" target="_blank">NUST</a>, Pakistan in 2011. Then I landed in <strong>Munich, Germany</strong> in 2013 to pursue <strong>MSc. Computer Science</strong> from <a href="http://www.in.tum.de/en.html" target="_blank">Technical University of Munich</a> and since then, I fell in love with this city.
+I completed <strong>BSc. Mechanical Engineering </strong> from <a href="http://uet.edu.pk" target="_blank">UET Lahore</a>, Pakistan in 2004. Then I landed in <strong>Munich, Germany</strong> in 2013 to pursue <strong>MSc. Computer Science</strong> from <a href="http://www.in.tum.de/en.html" target="_blank">Technical University of Munich</a> and since then, I fell in love with this city.
 </p>
 
 <p class="about-text">
@@ -39,11 +39,11 @@ I strongly believe in giving back to the community and always looking for opport
 I was born and bred in <strong>Rawalpindi, Pakistan</strong> and quite an Urdu language enthusiast. I invested some time and energy last year to work on a side project to create awareness about using "Nastaliq" for Urdu on digital space. I ended up publishing an Android app on <a href="https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator" target="_blank">Google Play</a> and also wrote <a href="http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/" target="_blank">post</a> about the project.
 
 If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25"> or maybe ever thought about visiting, then do checkout <a href="http://wahibhaq.com/community-work/pakistan-tourism/">Visit Pakistan</a>. It is a personal effort to compile updates about International tourists who've visited Pakistan in past and also help you in finding all the good reasons to visit as well :)
-</p> 
+</p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon" id="contactme"></span>
-It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a> / <a href="http://instagram.com/not_that_pindi_boy">Instagram</a>. I normally tweet about Android, DevRel, Expat, All things Pakistani & Life's lemons. I am a kind of lazy storyteller who likes to share about what's going around him. I write what I like, but sometimes not, and any opinions I express are usually my own. 
+It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a> / <a href="http://instagram.com/not_that_pindi_boy">Instagram</a>. I normally tweet about Android, DevRel, Expat, All things Pakistani & Life's lemons. I am a kind of lazy storyteller who likes to share about what's going around him. I write what I like, but sometimes not, and any opinions I express are usually my own.
 </p>
 
 </div>
