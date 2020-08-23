@@ -1,22 +1,26 @@
 # --- General options --- #
 
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://shabkha.com"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
 # Name of website
-title: Hi, its Shabeer
+#title: Wahib Ul Haq
 
 # Short description of your site
-description: A virtual proof that I'm awesome
-
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
-
-# baseurl should be an empty string
-#baseurl: "Hi, its Shabeer"
+description: A Personal Website and Blog !
 
 # --- Navigation bar options --- #
+
 
 # List of links in the navigation bar
 navbar-links:
@@ -44,7 +48,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "C:/company/github_stuff/pics_01/Ramsha/ram3.jpg"
+avatar: "/img/avatar-face.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
